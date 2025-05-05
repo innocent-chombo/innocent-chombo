@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innocent-chombo
 - 👀 I’m interested in mobile app development, web app development, game development and general AI 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning micro services
 - 📫 How to reach me innocent.chombo@sparcsystems.africa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If you build it they will come...
